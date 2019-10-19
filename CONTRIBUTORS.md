@@ -6,6 +6,11 @@
 - Bio: Undergraduate in Sabaragamuwa University of Sri Lanka.
 - Github: https://github.com/gayathribuddhika
 
+### Amaya Hewavithana
+- Photo: https://avatars1.githubusercontent.com/u/39160904?s=460&v=4
+- Location: Galle, Sri Lanka
+- Bio: Undergraduate in Sabaragamuwa University of Sri Lanka.
+- Github: https://github.com/InduAmaya
 
 ### Wajahat Karim
 - Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
